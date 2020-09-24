@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Skills
+
+_Below is a list of my **technical skills:**_
+
+### Renovation Skills
+- painting
+- sanding
+- installing flooring
+
+### Reading skills
+- debate with author
+- Recite the information after reaeding
